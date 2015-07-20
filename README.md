@@ -4,12 +4,21 @@ I have problems to import my projekt from my pc to github. Some help would be ni
 
 If it would be imported:
 Controls:
+
 w          : go up
+
 a          : go left
+
 s          : go down
+
 d          : go right
+
 space      : teleport to mouse
+
 left click : shoot
+
 right click: special ability (coming soon)
+
 m          : menu open/close
+
 escape     : back to main screen
